@@ -22,7 +22,7 @@
          <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">Lastro BTC</a>
+                <a class="navbar-brand" href="#page-top">EMTPIO P2P</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
@@ -61,7 +61,7 @@
                             Our objective is to allow transaction in Bitcoin free, for this, we create the app mobile that connects on server api 
                             via tor network and create transactions just changing balances of users, and thus, allowing free transactions, being processed on the block chain only upon withdrawal and deposit.
                             Read our paper for more informations.
-                            <a href="https://startbootstrap.com/theme/grayscale/">Paper</a>
+                            <a href="#">Paper</a>
                         </p>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                                     <p class="mb-0 text-white-50">You can download the application directly from this website down!</p>
                                     <br />
                                     <hr />
-                                    <a href="https://github.com/lastrobtc" target="_blank">Github Projects</a>
+                                    <a href="https://github.com/emptioapp" target="_blank">Github Projects</a>
                                 </div>
                             </div>
                         </div>
@@ -135,7 +135,7 @@
                                 <i class="fas fa-x text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Twitter</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="https://twitter.com/LastroBTC" target="_black">Lastro BTC</a></div>
+                                <div class="small text-black-50"><a href="https://twitter.com/emptio" target="_black">EMPTIO P2P</a></div>
                             </div>
                         </div>
                     </div>
@@ -145,7 +145,7 @@
                                 <i class="fas fa-envelope text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Email</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="#!">lastrobtc@onionmail.org</a></div>
+                                <div class="small text-black-50"><a href="#!">emptiop2p@onionmail.org</a></div>
                             </div>
                         </div>
                     </div>
@@ -156,7 +156,7 @@
                                 <i class="fa-brands fa-github text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Github Profile</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50"><a href="https://github.com/lastrobtc" target="_blank">Lastro BTC</a></div>
+                                <div class="small text-black-50"><a href="https://github.com/emptioapp" target="_blank">EMPTIO P2P</a></div>
                             </div>
                         </div>
                     </div>
@@ -200,7 +200,7 @@
         </section>
        
          <!-- Footer-->
-        <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">Copyright &copy; Lastro BTC 2023</div></footer>
+        <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">Copyright &copy; EMPTIO P2P 2023</div></footer>
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
